@@ -1,0 +1,55 @@
+title: TheSocioscope Wiki
+description: Comprehensive documentation for TheSocioscope LLM-driven research project and Sleipnir tool
+show_downloads: false
+theme: jekyll-theme-minimal
+
+# GitHub repository
+repository: IEA-Paris/Wiki
+
+# Navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: Getting Started
+    url: /getting-started
+  - title: Sleipnir
+    url: /sleipnir
+  - title: Research
+    url: /research
+  - title: Glossary
+    url: /glossary
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE
