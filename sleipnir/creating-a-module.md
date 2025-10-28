@@ -320,8 +320,8 @@ npm run dev:playground
 
 ## Related Documentation
 
-- [Versioning System](/sleipnir/versioning-system)
-- [Prompting Stack](/sleipnir/prompting-stack)
-- [Jobs](/sleipnir/jobs)
-- [API Reference](/sleipnir/api-reference)
-- [Glossary](/glossary)
+- [Versioning System]({{ site.baseurl }}/sleipnir/versioning-system)
+- [Prompting Stack]({{ site.baseurl }}/sleipnir/prompting-stack)
+- [Jobs]({{ site.baseurl }}/sleipnir/jobs)
+- [API Reference]({{ site.baseurl }}/sleipnir/api-reference)
+- [Glossary]({{ site.baseurl }}/glossary)

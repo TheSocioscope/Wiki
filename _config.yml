@@ -3,8 +3,12 @@ description: Comprehensive documentation for TheSocioscope LLM-driven research p
 show_downloads: false
 theme: jekyll-theme-minimal
 
+# Site settings
+baseurl: "/Wiki" # the subpath of your site, e.g. /blog
+url: "https://thesocioscope.github.io" # the base hostname & protocol
+
 # GitHub repository
-repository: IEA-Paris/Wiki
+repository: thesocioscope/Wiki
 
 # Navigation links
 navigation:
@@ -24,6 +28,9 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+# Permalink structure
+permalink: pretty
 
 # Collections
 collections:

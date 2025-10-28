@@ -484,7 +484,7 @@ save_results(corpus, 'my_results.json')
 
 ## Related Documentation
 
-- [Research Overview](/research/overview)
-- [Data Processing](/research/processing)
-- [Getting Started](/getting-started)
-- [Glossary](/glossary)
+- [Research Overview]({{ site.baseurl }}/research/overview)
+- [Data Processing]({{ site.baseurl }}/research/processing)
+- [Getting Started]({{ site.baseurl }}/getting-started)
+- [Glossary]({{ site.baseurl }}/glossary)

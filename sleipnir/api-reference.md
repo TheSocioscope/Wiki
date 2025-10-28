@@ -526,7 +526,7 @@ if (!result.isValid) {
 
 ## Related Documentation
 
-- [Architecture](/sleipnir/architecture)
-- [Composables Guide](/sleipnir/composables)
-- [Creating a Module](/sleipnir/creating-a-module)
-- [Getting Started](/getting-started)
+- [Architecture]({{ site.baseurl }}/sleipnir/architecture)
+- [Composables Guide]({{ site.baseurl }}/sleipnir/composables)
+- [Creating a Module]({{ site.baseurl }}/sleipnir/creating-a-module)
+- [Getting Started]({{ site.baseurl }}/getting-started)

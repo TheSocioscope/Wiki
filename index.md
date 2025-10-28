@@ -11,33 +11,33 @@ Welcome to the comprehensive documentation for **TheSocioscope**, an LLM-driven 
 
 ### 🚀 Getting Started
 
-- [Installation & Setup](/getting-started) - Get up and running quickly
-- [Quick Start Guide](/quick-start) - Your first steps with the platform
-- [Glossary](/glossary) - Key terms and definitions
+- [Installation & Setup]({{ site.baseurl }}/getting-started) - Get up and running quickly
+- [Quick Start Guide]({{ site.baseurl }}/quick-start) - Your first steps with the platform
+- [Glossary]({{ site.baseurl }}/glossary) - Key terms and definitions
 
 ### 🛠️ Sleipnir Documentation
 
-- [Overview](/sleipnir/overview) - Introduction to Sleipnir
-- [Architecture](/sleipnir/architecture) - Technical architecture and design
-- [Creating a Module](/sleipnir/creating-a-module) - Build custom modules
-- [Prompting Stack](/sleipnir/prompting-stack) - Understanding prompt stacks
-- [Versioning System](/sleipnir/versioning-system) - Version control for prompts
-- [Jobs System](/sleipnir/jobs) - Define and execute job workflows
-- [API Reference](/sleipnir/api-reference) - Complete API documentation
-- [Composables](/sleipnir/composables) - Reusable composition functions
+- [Overview]({{ site.baseurl }}/sleipnir/overview) - Introduction to Sleipnir
+- [Architecture]({{ site.baseurl }}/sleipnir/architecture) - Technical architecture and design
+- [Creating a Module]({{ site.baseurl }}/sleipnir/creating-a-module) - Build custom modules
+- [Prompting Stack]({{ site.baseurl }}/sleipnir/prompting-stack) - Understanding prompt stacks
+- [Versioning System]({{ site.baseurl }}/sleipnir/versioning-system) - Version control for prompts
+- [Jobs System]({{ site.baseurl }}/sleipnir/jobs) - Define and execute job workflows
+- [API Reference]({{ site.baseurl }}/sleipnir/api-reference) - Complete API documentation
+- [Composables]({{ site.baseurl }}/sleipnir/composables) - Reusable composition functions
 
 ### 🔬 Research Documentation
 
-- [Research Overview](/research/overview) - TheSocioscope research project
-- [Evaluation Framework](/research/evaluation) - Testing and validation methodology
-- [Data Processing](/research/processing) - Data processing pipelines
-- [RAG System](/research/rag) - Retrieval-Augmented Generation implementation
+- [Research Overview]({{ site.baseurl }}/research/overview) - TheSocioscope research project
+- [Evaluation Framework]({{ site.baseurl }}/research/evaluation) - Testing and validation methodology
+- [Data Processing]({{ site.baseurl }}/research/processing) - Data processing pipelines
+- [RAG System]({{ site.baseurl }}/research/rag) - Retrieval-Augmented Generation implementation
 
 ### 📊 Data Management
 
-- [Data Collection Process](/data/collection) - Collection methodologies and procedures
-- [Storage & Backup Strategy](/data/storage-backup) - Data storage and backup
-- [Reprocessing Corpus Features](/data/reprocessing) - Feature extraction and reprocessing
+- [Data Collection Process]({{ site.baseurl }}/data/collection) - Collection methodologies and procedures
+- [Storage & Backup Strategy]({{ site.baseurl }}/data/storage-backup) - Data storage and backup
+- [Reprocessing Corpus Features]({{ site.baseurl }}/data/reprocessing) - Feature extraction and reprocessing
 
 ## About the Projects
 

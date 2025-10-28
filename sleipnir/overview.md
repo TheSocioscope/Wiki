@@ -98,14 +98,14 @@ Sleipnir provides researchers and developers with a comprehensive platform for:
 
 ## Getting Started
 
-1. [Installation](/getting-started) - Set up Sleipnir
-2. [Architecture](/sleipnir/architecture) - Understand the system
-3. [Creating a Module](/sleipnir/creating-a-module) - Extend functionality
-4. [API Reference](/sleipnir/api-reference) - Developer docs
+1. [Installation]({{ site.baseurl }}/getting-started) - Set up Sleipnir
+2. [Architecture]({{ site.baseurl }}/sleipnir/architecture) - Understand the system
+3. [Creating a Module]({{ site.baseurl }}/sleipnir/creating-a-module) - Extend functionality
+4. [API Reference]({{ site.baseurl }}/sleipnir/api-reference) - Developer docs
 
 ## Related Documentation
 
-- [Architecture](/sleipnir/architecture)
-- [Prompting Stack](/sleipnir/prompting-stack)
-- [Jobs System](/sleipnir/jobs)
-- [Versioning System](/sleipnir/versioning-system)
+- [Architecture]({{ site.baseurl }}/sleipnir/architecture)
+- [Prompting Stack]({{ site.baseurl }}/sleipnir/prompting-stack)
+- [Jobs System]({{ site.baseurl }}/sleipnir/jobs)
+- [Versioning System]({{ site.baseurl }}/sleipnir/versioning-system)

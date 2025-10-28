@@ -172,7 +172,7 @@ touch src/module.ts
 touch package.json
 ```
 
-See [Creating a Module](/sleipnir/creating-a-module) for details.
+See [Creating a Module]({{ site.baseurl }}/sleipnir/creating-a-module) for details.
 
 ### Process Interview Transcripts
 
@@ -232,29 +232,29 @@ yarn dev
 
 ### For Sleipnir Users
 
-1. ✅ [Architecture Overview](/sleipnir/architecture)
-2. ✅ [Prompting Stack Guide](/sleipnir/prompting-stack)
-3. ✅ [Module Development](/sleipnir/creating-a-module)
-4. ✅ [API Reference](/sleipnir/api-reference)
+1. ✅ [Architecture Overview]({{ site.baseurl }}/sleipnir/architecture)
+2. ✅ [Prompting Stack Guide]({{ site.baseurl }}/sleipnir/prompting-stack)
+3. ✅ [Module Development]({{ site.baseurl }}/sleipnir/creating-a-module)
+4. ✅ [API Reference]({{ site.baseurl }}/sleipnir/api-reference)
 
 ### For Researchers
 
-1. ✅ [Evaluation Framework](/research/evaluation)
-2. ✅ [Data Collection Process](/data/collection)
-3. ✅ [Storage Strategy](/data/storage-backup)
+1. ✅ [Evaluation Framework]({{ site.baseurl }}/research/evaluation)
+2. ✅ [Data Collection Process]({{ site.baseurl }}/data/collection)
+3. ✅ [Storage Strategy]({{ site.baseurl }}/data/storage-backup)
 
 ### For Both
 
-1. ✅ [Full Installation Guide](/getting-started)
-2. ✅ [Glossary](/glossary)
+1. ✅ [Full Installation Guide]({{ site.baseurl }}/getting-started)
+2. ✅ [Glossary]({{ site.baseurl }}/glossary)
 
 ## Getting Help
 
 - 📖 Browse the [full documentation](/)
-- 🔍 Check the [Glossary](/glossary)
+- 🔍 Check the [Glossary]({{ site.baseurl }}/glossary)
 - 💬 Open an issue on GitHub
 - 📧 Contact the team
 
 ---
 
-**Stuck?** Most issues are covered in the [Getting Started](/getting-started) guide or [Glossary](/glossary).
+**Stuck?** Most issues are covered in the [Getting Started]({{ site.baseurl }}/getting-started) guide or [Glossary]({{ site.baseurl }}/glossary).

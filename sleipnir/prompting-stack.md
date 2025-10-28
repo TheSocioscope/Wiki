@@ -413,7 +413,7 @@ async def process_stream(input_stream):
 
 ## Related Documentation
 
-- [Creating a Module](/sleipnir/creating-a-module)
-- [Versioning System](/sleipnir/versioning-system)
-- [Jobs](/sleipnir/jobs)
-- [Glossary](/glossary)
+- [Creating a Module]({{ site.baseurl }}/sleipnir/creating-a-module)
+- [Versioning System]({{ site.baseurl }}/sleipnir/versioning-system)
+- [Jobs]({{ site.baseurl }}/sleipnir/jobs)
+- [Glossary]({{ site.baseurl }}/glossary)

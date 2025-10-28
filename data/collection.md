@@ -232,7 +232,7 @@ Additional metadata added during processing:
 
 ## Related Documentation
 
-- [Data Storage and Backup Strategy](/data/storage-backup)
-- [Reprocessing Corpus Features](/data/reprocessing)
-- [Research Evaluation](/research/evaluation)
-- [Glossary](/glossary)
+- [Data Storage and Backup Strategy]({{ site.baseurl }}/data/storage-backup)
+- [Reprocessing Corpus Features]({{ site.baseurl }}/data/reprocessing)
+- [Research Evaluation]({{ site.baseurl }}/research/evaluation)
+- [Glossary]({{ site.baseurl }}/glossary)

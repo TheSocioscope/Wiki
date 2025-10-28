@@ -287,6 +287,6 @@ This glossary provides definitions of key terms used in the TheSocioscope projec
 ## Related Documentation
 
 - [Home](/)
-- [Sleipnir Overview](/sleipnir/overview)
-- [Research Overview](/research/overview)
-- [Getting Started](/getting-started)
+- [Sleipnir Overview]({{ site.baseurl }}/sleipnir/overview)
+- [Research Overview]({{ site.baseurl }}/research/overview)
+- [Getting Started]({{ site.baseurl }}/getting-started)

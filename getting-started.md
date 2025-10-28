@@ -236,7 +236,7 @@ Research/
 3. Register in `nuxt.config.ts`
 4. Configure module options
 
-See [Creating a Module](/sleipnir/creating-a-module) for details.
+See [Creating a Module]({{ site.baseurl }}/sleipnir/creating-a-module) for details.
 
 ### Process New Dataset
 
@@ -312,15 +312,15 @@ Edit `evaluation/main.py` or create custom configuration files.
 
 ## Next Steps
 
-- [Sleipnir Architecture](/sleipnir/architecture) - Understand the technical architecture
-- [Creating a Module](/sleipnir/creating-a-module) - Extend Sleipnir with custom modules
-- [Prompting Stack](/sleipnir/prompting-stack) - Learn about advanced prompt workflows
-- [Research Evaluation](/research/evaluation) - Deep dive into evaluation frameworks
-- [API Reference](/sleipnir/api-reference) - Complete API documentation
+- [Sleipnir Architecture]({{ site.baseurl }}/sleipnir/architecture) - Understand the technical architecture
+- [Creating a Module]({{ site.baseurl }}/sleipnir/creating-a-module) - Extend Sleipnir with custom modules
+- [Prompting Stack]({{ site.baseurl }}/sleipnir/prompting-stack) - Learn about advanced prompt workflows
+- [Research Evaluation]({{ site.baseurl }}/research/evaluation) - Deep dive into evaluation frameworks
+- [API Reference]({{ site.baseurl }}/sleipnir/api-reference) - Complete API documentation
 
 ## Getting Help
 
-- Check the [Glossary](/glossary) for term definitions
+- Check the [Glossary]({{ site.baseurl }}/glossary) for term definitions
 - Review documentation for specific topics
 - Check GitHub issues for known problems
 - Contact the development team

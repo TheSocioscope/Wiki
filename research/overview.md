@@ -26,7 +26,7 @@ Comprehensive testing and validation of LLM outputs:
 - Statistical analysis and visualization
 - Support for various LLM models
 
-**Learn more**: [Evaluation Framework](/research/evaluation)
+**Learn more**: [Evaluation Framework]({{ site.baseurl }}/research/evaluation)
 
 ### 2. RAG System
 
@@ -37,7 +37,7 @@ Retrieval-Augmented Generation for enhanced responses:
 - Citation generation
 - Context-aware responses
 
-**Learn more**: [Evaluation Framework](/research/evaluation#rag-retrieval-augmented-generation)
+**Learn more**: [Evaluation Framework]({{ site.baseurl }}/research/evaluation#rag-retrieval-augmented-generation)
 
 ### 3. Data Processing
 
@@ -48,7 +48,7 @@ Pipelines for transforming raw data:
 - Entity recognition
 - Topic modeling
 
-**Learn more**: [Data Processing](/research/processing)
+**Learn more**: [Data Processing]({{ site.baseurl }}/research/processing)
 
 ## Research Workflow
 
@@ -119,13 +119,13 @@ click==8.1.8           # CLI interface
 
 ## Getting Started
 
-1. [Installation](/getting-started#research-tools-installation)
-2. [Evaluation Framework](/research/evaluation)
-3. [Data Processing](/research/processing)
+1. [Installation]({{ site.baseurl }}/getting-started#research-tools-installation)
+2. [Evaluation Framework]({{ site.baseurl }}/research/evaluation)
+3. [Data Processing]({{ site.baseurl }}/research/processing)
 
 ## Related Documentation
 
-- [Evaluation Framework](/research/evaluation)
-- [Data Collection](/data/collection)
-- [Data Storage](/data/storage-backup)
-- [Glossary](/glossary)
+- [Evaluation Framework]({{ site.baseurl }}/research/evaluation)
+- [Data Collection]({{ site.baseurl }}/data/collection)
+- [Data Storage]({{ site.baseurl }}/data/storage-backup)
+- [Glossary]({{ site.baseurl }}/glossary)

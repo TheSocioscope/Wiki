@@ -482,7 +482,7 @@ NUXT_AUTH_SECRET
 
 ## Related Documentation
 
-- [Creating a Module](/sleipnir/creating-a-module)
-- [API Reference](/sleipnir/api-reference)
-- [Composables](/sleipnir/composables)
-- [Getting Started](/getting-started)
+- [Creating a Module]({{ site.baseurl }}/sleipnir/creating-a-module)
+- [API Reference]({{ site.baseurl }}/sleipnir/api-reference)
+- [Composables]({{ site.baseurl }}/sleipnir/composables)
+- [Getting Started]({{ site.baseurl }}/getting-started)

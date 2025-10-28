@@ -279,7 +279,7 @@ Hot (Standard) → [30 days] → Warm (Standard-IA) → [90 days] → Cold (Glac
 
 ## Related Documentation
 
-- [Data Collection Process](/data/collection)
-- [Reprocessing Corpus Features](/data/reprocessing)
-- [Sleipnir Architecture](/sleipnir/architecture)
-- [Getting Started](/getting-started)
+- [Data Collection Process]({{ site.baseurl }}/data/collection)
+- [Reprocessing Corpus Features]({{ site.baseurl }}/data/reprocessing)
+- [Sleipnir Architecture]({{ site.baseurl }}/sleipnir/architecture)
+- [Getting Started]({{ site.baseurl }}/getting-started)
